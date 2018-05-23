@@ -1,0 +1,11 @@
+<resources>
+  <string name="app_name">Wielomiany szachowe</string>
+  <string name="main_activity_rows_and_columns">Ile kolumn i wierszy?</string>
+  <string name="main_activity_button_generate">generuj</string>
+  <string name="main_activity_button_calculate">oblicz</string>
+
+
+  <string name="enter_number_from_range">Wpisz liczbę z zakresu &lt;2,10&gt;</string>
+  <string name="calculating_polynomial">Obliczanie wielomianu.\nTo może potrwać chwilę..."</string>
+  <string name="please_wait">Proszę czekać</string>
+</resources>

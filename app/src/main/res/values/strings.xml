@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rook Polynomial</string>
+    <string name="main_activity_rows_and_columns">How many rows and columns?</string>
+    <string name="main_activity_button_generate">generate</string>
+    <string name="main_activity_button_calculate">calculate</string>'
+
+    <string name="enter_number_from_range">Enter number from range &lt;2,10&gt;</string>
+    <string name="calculating_polynomial">Calculating polynomial.\nIt may take a while..."</string>
+    <string name="please_wait">Please wait</string>
+</resources>
